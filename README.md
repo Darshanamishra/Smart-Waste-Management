@@ -1,9 +1,5 @@
-# ♻️ Waste Management Performance Dashboard
-
+# ♻️ Smart Waste Management Performance Report
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-# 📊 Smart Waste Management Performance Report
 
 ## 🔍 Overview
 This project presents a **Smart Waste Management Dashboard** built using **Power BI** with **mock data generated in Python**. It simulates waste collection performance across various cities, helping stakeholders monitor key metrics like total waste, recycling rate, vendor efficiency, and carbon reduction.
