@@ -68,4 +68,4 @@ Five core datasets power the dashboard:
 ## Live Dashboard Access
 
 Explore the interactive dashboard:
-[Smart Waste Management Dashboard]("https://app.powerbi.com/view?r=eyJrIjoiNTRiNGZiNjYtZDg5Ni00ZGFlLWIxMGQtNjcxZDI1NTg0MjFkIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9)
+[Smart Waste Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRiNGZiNjYtZDg5Ni00ZGFlLWIxMGQtNjcxZDI1NTg0MjFkIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9)
