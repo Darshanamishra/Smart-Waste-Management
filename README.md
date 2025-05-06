@@ -1,7 +1,4 @@
 # ♻️ Smart Waste Management Performance Report
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)
-
-![Smart Waste Management Banner](https://raw.githubusercontent.com/yourusername/smart-waste-dashboard/main/images/banner.png)
 
 A comprehensive Power BI solution for waste management analytics and performance optimization.
 
@@ -73,36 +70,3 @@ The dashboard is powered by five core datasets:
 Explore the interactive dashboard:
 [Smart Waste Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRiNGZiNjYtZDg5Ni00ZGFlLWIxMGQtNjcxZDI1NTg0MjFkIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9)
 
-## Repository Contents
-smart-waste-dashboard/
-├── data/                # Dataset CSV files
-├── scripts/             # Data generation script
-├── powerbi/             # Power BI report file
-├── images/              # Dashboard screenshots
-└── README.md
-
-## Getting Started
-
-### Prerequisites
-- Power BI Desktop (for report modification)
-- Power BI Service account (for viewing the published report)
-- Python 3.6+ (only if regenerating mock data)
-
-### Setup
-1. Clone this repository
-2. Open the Power BI report in Power BI Desktop
-3. Refresh data connections if needed
-4. Customize as needed for your environment
-
-## Future Enhancements
-
-Planned improvements include:
-
-- Integration with IoT bin sensors for real-time fill levels
-- Predictive analytics for collection schedule optimization 
-- Machine learning for anomaly detection in waste patterns
-- Mobile app integration for field operations
-
-## Contact
-
-For questions or suggestions about this project, please open an issue in this repository or contact me directly.
