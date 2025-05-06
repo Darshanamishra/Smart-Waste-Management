@@ -10,8 +10,22 @@ The project includes a custom Python script for generating realistic mock data a
 
 ## Dashboard Features
 
+### Main Dashboard
+![Main Dashboard](https://github.com/Darshanamishra/Smart-Waste-Management/blob/main/Images/Home.png)
+
+The operational dashboard visualizes:
+
+- Total waste volume (211 tons) with location breakdown
+- Average cost per ton ($152.23) 
+- Recycling performance (48%)
+- Bin fill level monitoring (80% average)
+- Vendor performance metrics
+- Cost breakdown over time
+- Carbon reduction distribution (368 tons)
+- Recycling composition analysis
+
 ### Key Insights View
-![Key Insights Dashboard](https://raw.githubusercontent.com/yourusername/smart-waste-dashboard/main/images/key-insights.png)
+![Key Insights Dashboard](https://github.com/Darshanamishra/Smart-Waste-Management/blob/main/Images/Key%20Insights.png)
 
 The executive summary provides at-a-glance performance metrics:
 
@@ -31,20 +45,6 @@ Prioritized action items derived from the data:
 3. April operational review
 4. Route optimization for SmartWaste Co.
 
-### Main Dashboard
-![Main Dashboard](https://raw.githubusercontent.com/yourusername/smart-waste-dashboard/main/images/main-dashboard.png)
-
-The operational dashboard visualizes:
-
-- Total waste volume (211 tons) with location breakdown
-- Average cost per ton ($152.23) 
-- Recycling performance (48%)
-- Bin fill level monitoring (80% average)
-- Vendor performance metrics
-- Cost breakdown over time
-- Carbon reduction distribution (368 tons)
-- Recycling composition analysis
-
 ## Technical Components
 
 ### Data Architecture
@@ -57,7 +57,7 @@ The solution consists of:
 
 ### Key Datasets
 
-The dashboard is powered by five core datasets:
+Five core datasets power the dashboard:
 
 1. **Waste Collection Summary**: Tracks volumes, bin fill percentages, and pickup frequency
 2. **Cost Optimization Tracker**: Monitors service costs, penalties, and cost efficiency
@@ -68,5 +68,4 @@ The dashboard is powered by five core datasets:
 ## Live Dashboard Access
 
 Explore the interactive dashboard:
-[Smart Waste Management Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTRiNGZiNjYtZDg5Ni00ZGFlLWIxMGQtNjcxZDI1NTg0MjFkIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9)
-
+[Smart Waste Management Dashboard]("https://app.powerbi.com/view?r=eyJrIjoiNTRiNGZiNjYtZDg5Ni00ZGFlLWIxMGQtNjcxZDI1NTg0MjFkIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9)
