@@ -1,4 +1,4 @@
-# ♻️ Smart Waste Management Performance Report 
+# ♻️ Smart Waste Management Performance Report  
 
 A comprehensive Power BI solution for waste management analytics and performance optimization.
 
